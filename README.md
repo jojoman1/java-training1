@@ -62,7 +62,7 @@ src/
 ## ⚙️ How to Run
 
 1. Clone the repository:
-   ```bash
+   bash
    git clone https://github.com/your-username/mortgage-calculator.git
    cd mortgage-calculator
 
@@ -116,6 +116,8 @@ QA Automation Engineer → learning Java backend & finance tools
 
 🌐 [LinkedIn Profile
 ](https://www.linkedin.com/in/mohamed-sajith-36579a188/)
+
+
 📝 License
 
 This project is open-source and available under the MIT License
